@@ -6,8 +6,8 @@ Tout le monde étant obligé de travailler et de socialiser depuis chez soi, le 
 
 - npm i -> Télécharger les dependances
 - npm start -> Démarrer le server
-- npm i -g peer -> install la dependance PeerJs
-- peerjs --port 3001 -> demarrer peerjs sur le port 3001
+- npm i -g peer -> Installer la dependance PeerJs
+- peerjs --port 3001 -> Demarrer peerjs sur le port 3001
 
 plus qu'à tester [http://localhost:3000/](http://localhost:3000/)
 
